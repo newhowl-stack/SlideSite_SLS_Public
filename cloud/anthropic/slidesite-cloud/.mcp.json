@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "slidesite": {
+      "type": "http",
+      "url": "https://slidesite-backend-live-production.up.railway.app/api/llm/mcp"
+    }
+  }
+}

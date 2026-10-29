@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "slidesite": {
+      "type": "streamable-http",
+      "url": "https://slidesite-backend-live-production.up.railway.app/api/llm/mcp",
+      "extensions": {
+        "com.openai": {
+          "auth": {
+            "type": "oauth",
+            "client": {
+              "mode": "dcr"
+            },
+            "defaultScopes": [
+              "slidesite:propose",
+              "slidesite:direct",
+              "offline_access"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

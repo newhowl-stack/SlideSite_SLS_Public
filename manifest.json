@@ -1,0 +1,10 @@
+{
+  "format": "slidesite-starter/1",
+  "release": "SlideSite AI Ready 1.25.0",
+  "files": {
+    "starter.html": "bbaa0ce7c29e306a54bf35962a1ebf15381689b13982502761eb24105e208d36",
+    "README.md": "8f0cd7b2a37d860ceca02ad4b6b803003319de744902edb64a72df723e93e4c1",
+    "skills/slidesite/SKILL.md": "6ae2aa20df044128aa88819f16e6d7ffcc7ac5e050b29d854c3d2e6a079c68d5"
+  },
+  "canonicalDownload": "https://slidesite-html-previews-production.up.railway.app/download/slidesite.html"
+}
