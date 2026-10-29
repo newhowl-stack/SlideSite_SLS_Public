@@ -2,9 +2,28 @@
   "format": "slidesite-starter/1",
   "release": "SlideSite AI Ready 1.25.0",
   "files": {
+    "LICENSING.md": "406e8e0e78e6eda69f637147723f32d4dc651d28fc6f57ba398044d9ed4e38fb",
+    "LICENSE": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+    "THIRD_PARTY_NOTICES.md": "1dc9f5a73772ce120b68ca2b8f9764f0d8377232abe533ea730e2029b69d48c2",
+    "README.md": "9ab363f2383954486d0f6e980210c835f2527a68c42405e5893f51a3e017b238",
     "starter.html": "bbaa0ce7c29e306a54bf35962a1ebf15381689b13982502761eb24105e208d36",
-    "README.md": "8f0cd7b2a37d860ceca02ad4b6b803003319de744902edb64a72df723e93e4c1",
-    "skills/slidesite/SKILL.md": "6ae2aa20df044128aa88819f16e6d7ffcc7ac5e050b29d854c3d2e6a079c68d5"
+    "cloud/anthropic/slidesite-cloud/LICENSING.md": "406e8e0e78e6eda69f637147723f32d4dc651d28fc6f57ba398044d9ed4e38fb",
+    "cloud/anthropic/slidesite-cloud/LICENSE": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+    "cloud/anthropic/slidesite-cloud/.mcp.json": "93b0afb64f0929f414ff0180a853ad9cce734b995db47897c9ff9b1f3673aff4",
+    "cloud/anthropic/slidesite-cloud/THIRD_PARTY_NOTICES.md": "1dc9f5a73772ce120b68ca2b8f9764f0d8377232abe533ea730e2029b69d48c2",
+    "cloud/anthropic/slidesite-cloud/README.md": "f43d53b8592e41648285c9dce42d466f80209cc63e06e20cc8c5c55aa6a5f394",
+    "cloud/anthropic/slidesite-cloud/.claude-plugin/plugin.json": "8862271868b26cf8361f15ef547498c646c6a829071fc71dd7005b45972ac524",
+    "cloud/anthropic/slidesite-cloud/skills/slidesite-cloud/SKILL.md": "97be12f5262220827bc09ad1c4d6d633f901503640a0752b157acb5a3d031602",
+    "cloud/openai/slidesite-cloud/LICENSING.md": "406e8e0e78e6eda69f637147723f32d4dc651d28fc6f57ba398044d9ed4e38fb",
+    "cloud/openai/slidesite-cloud/LICENSE": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+    "cloud/openai/slidesite-cloud/THIRD_PARTY_NOTICES.md": "1dc9f5a73772ce120b68ca2b8f9764f0d8377232abe533ea730e2029b69d48c2",
+    "cloud/openai/slidesite-cloud/plugin.json": "948cb1e111920cd807401280010e0afca232baf22b7718377f8478a6ba70a7d0",
+    "cloud/openai/slidesite-cloud/README.md": "9f3afd2382d855a001e64c29ddce5d5213496cd8f54faea0d64938e24dd3506e",
+    "cloud/openai/slidesite-cloud/mcp.json": "6859f62972facf26163cc7d97585bd2f3cd054cb35dc9c7d8af4d615929cdc32",
+    "cloud/openai/slidesite-cloud/skills/slidesite-cloud/SKILL.md": "97be12f5262220827bc09ad1c4d6d633f901503640a0752b157acb5a3d031602",
+    "skills/slidesite/SKILL.md": "49acfa83ce5c1d9bbfaed6bd95218215debd561a92ec9183fb132ad2e8a65433"
   },
-  "canonicalDownload": "https://slidesite-html-previews-production.up.railway.app/download/slidesite.html"
+  "canonicalDownload": "https://slidesite-html-previews-production.up.railway.app/download/slidesite.html",
+  "license": "AGPL-3.0-only",
+  "licenseScope": "First-party editor code and skills; third-party terms and independent user content are separate."
 }

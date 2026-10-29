@@ -1,6 +1,7 @@
 ---
 name: slidesite-cloud
 description: Read and edit the user's authorized SlideSite+ hosted presentations through the connected MCP service. Use for cloud presentation edits, not standalone file generation.
+license: AGPL-3.0-only
 ---
 
 # SlideSite+ cloud presentations
