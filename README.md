@@ -10,7 +10,7 @@ SLS is SlideSite's editable presentation format: one HTML file containing your s
 2. Follow the [ChatGPT](guides/CHATGPT.md) or [Claude](guides/CLAUDE.md) guide to generate slides using that file.
 3. Download the generated HTML (or unzip its ZIP), open the HTML in a browser, edit it and download a new copy. Reopen that saved copy to check your changes.
 
-**Try it without AI:** `starter.html` is also an editable three-slide example. Open it, select a text object and change its words. Use **Download HTML copy** in the save controls and reopen the downloaded file. [Download the example HTML directly](https://github.com/newhowl-stack/SlideSite_SLS_Public/raw/refs/heads/main/starter.html).
+**Try it without AI:** `starter.html` is also an editable three-slide example. Open it, select a text object and change its words. Use **Download HTML copy** in the save controls and reopen the downloaded file. The example is inside the ZIP. [View its HTML source](https://github.com/newhowl-stack/SlideSite_SLS_Public/blob/main/starter.html).
 
 Included editor: **SlideSite AI Ready 1.25.0**, 2,125,306 bytes, SHA256 `bbaa0ce7c29e306a54bf35962a1ebf15381689b13982502761eb24105e208d36`. [File checksums](manifest.json) · [ZIP checksum](https://github.com/newhowl-stack/SlideSite_SLS_Public/blob/main/downloads/SHA256SUMS).
 
