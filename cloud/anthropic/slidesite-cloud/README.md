@@ -1,5 +1,7 @@
 # SlideSite+ for Claude
 
+**Preview — independent current provider authorization → read → edit → saved-result acceptance is pending. These instructions are not a launch-ready or one-click-install certification. Standalone files need no hosted connection.**
+
 Hosted-presentation connection.
 
 Upload this plugin in Claude where custom plugins are available. Connecting still requires your SlideSite sign-in and presentation consent.

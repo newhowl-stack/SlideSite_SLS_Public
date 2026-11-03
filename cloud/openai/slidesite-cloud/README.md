@@ -1,5 +1,7 @@
 # SlideSite+ for ChatGPT
 
+**Preview — independent current provider authorization → read → edit → saved-result acceptance is pending. These instructions are not a launch-ready or one-click-install certification. Standalone files need no hosted connection.**
+
 Hosted-presentation connection.
 
 This includes a portable plugin and setup guide. Downloading a ZIP does not install a ChatGPT app; use the custom MCP connection flow where available.
