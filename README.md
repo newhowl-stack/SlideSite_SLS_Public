@@ -1,6 +1,6 @@
 # SlideSite — editable HTML presentations
 
-**[Download the starter ZIP](https://github.com/newhowl-stack/SlideSite_SLS_Public/raw/refs/heads/main/downloads/SlideSite_Starter.zip)** · [ChatGPT instructions](guides/CHATGPT.md) · [Claude instructions](guides/CLAUDE.md)
+**[Download the starter ZIP](https://github.com/newhowl-stack/SlideSite_SLS_Public/raw/refs/heads/main/downloads/SlideSite_Starter-1.25.0-guide.1.zip)** · [ChatGPT instructions](guides/CHATGPT.md) · [Claude instructions](guides/CLAUDE.md)
 
 SLS is SlideSite's editable presentation format: one HTML file containing your slide content and a browser editor. Download it, open it in your browser, edit your slides and save a new HTML copy. The free standalone workflow needs no SlideSite+ account. Your AI provider's account and file-tool requirements still apply.
 
