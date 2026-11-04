@@ -1,11 +1,11 @@
 {
   "format": "slidesite-starter/1",
-  "release": "SlideSite rights-clean1.27.0 candidate",
+  "release": "SlideSite rights-clean1.27.1 public-routing derivative",
   "files": {
     "KNOWN_LIMITATIONS.md": "229d708e9f7eafb823f2d7f454ede01a8fc0624957a086166583432f6904cd90",
     "LICENSE": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
     "LICENSING.md": "406e8e0e78e6eda69f637147723f32d4dc651d28fc6f57ba398044d9ed4e38fb",
-    "README.md": "fd135f740f50202ac104268ba01f23969cd167617e3a88f160f8f9abbdc54002",
+    "README.md": "3cdd733c2662820c004898690e3d9ee180fdc78f1f28dfa0e46febcfde82b2b1",
     "RIGHTS_AUDIT.json": "00ad5e54a1a8aa1ef1b1555567ce32cd82cb1c73fc4809c78701440235399e0d",
     "THIRD_PARTY_NOTICES.md": "c4a196b2587951925372a6c2e4f8b775097a34d1909111c7846d737a698d3273",
     "cloud/anthropic/slidesite-cloud/.claude-plugin/plugin.json": "8862271868b26cf8361f15ef547498c646c6a829071fc71dd7005b45972ac524",
@@ -22,19 +22,21 @@
     "cloud/openai/slidesite-cloud/mcp.json": "6859f62972facf26163cc7d97585bd2f3cd054cb35dc9c7d8af4d615929cdc32",
     "cloud/openai/slidesite-cloud/plugin.json": "948cb1e111920cd807401280010e0afca232baf22b7718377f8478a6ba70a7d0",
     "cloud/openai/slidesite-cloud/skills/slidesite-cloud/SKILL.md": "97be12f5262220827bc09ad1c4d6d633f901503640a0752b157acb5a3d031602",
-    "guides/CHATGPT.md": "a51ad43a936de242f2c1f7d87882bfc719a8381a6f189cf560af183b19ecf247",
-    "guides/CLAUDE.md": "af554ed84b2c31ca9b5b90c2484753cfbcf8c06a89e4bc5fb19fc585149175fa",
+    "guides/CHATGPT.md": "b5716dd3bae3fae733da3603982a4dcb1f5421f67b5304fbc7114fbfe57aa13b",
+    "guides/CLAUDE.md": "20d0cc76001af00282a92f352ef40ec95918dea211102d9e51dc99fc681f4e4f",
     "skills/slidesite/SKILL.md": "49acfa83ce5c1d9bbfaed6bd95218215debd561a92ec9183fb132ad2e8a65433",
-    "starter.html": "e1352267beeeca5d2a5dd18960caf847701295744be3250462b428d4f7920c22"
+    "starter.html": "7c4e655e97cd443c9b5e73e0fd1bec1c2c621bcc6953706c4e47009a6d659a5f"
   },
   "license": "AGPL-3.0-only",
   "licenseScope": "First-party editor code and skills; third-party terms and independent user content are separate.",
-  "packageVersion": "1.27.0-guide.2",
+  "packageVersion": "1.27.1-guide.3",
   "distributionStatus": "rights-clean-distribution; platform-consumer-acceptance-pending",
   "sourceGuidePackage": {
     "version": "1.25.0-guide.1",
     "commit": "d2d694f5ebef4f340cbd6f06f07b039954d9ea2f",
     "zipSha256": "4ec183d30b2aab34bdc84ae363850b0b5078fef826147b7b804684cfc49c96ad"
   },
-  "sourceFreezeCommit": "e3ef116efa0420e543e2a8858f0d56ad9f430de3"
+  "sourceFreezeCommit": "e3ef116efa0420e543e2a8858f0d56ad9f430de3",
+  "sourceGuidePackageSha256": "348ddb502a4486f20facbabd14916bf0c6d146aa5733bfa4545009930b628861",
+  "sourceRoutingCommit": "f0f44ce345811869ef9f77f62d3fedf452236153"
 }

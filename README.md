@@ -1,8 +1,8 @@
 # SlideSite — editable HTML presentations
 
-Rights-clean distribution1.27.0-guide.2. Derived from the tested freeze; platform guide download links now select these rights-clean bytes. Global canonical promotion and hosted deployment are recorded separately. Open the included file; do not substitute the older public starter. New platform guides and hosted-preview limits are preserved from1.25.0-guide.1.
+Rights-clean distribution1.27.1-guide.3. Derived from the tested freeze; platform guide download links now select these rights-clean bytes. Public app handoff and starter discovery use https://app.slide-site.com. Global canonical promotion and hosted deployment are recorded separately. Open the included file; do not substitute the older public starter. New platform guides and hosted-preview limits are preserved from1.25.0-guide.1.
 
-**[Download the starter ZIP](https://github.com/newhowl-stack/SlideSite_SLS_Public/raw/refs/heads/main/downloads/SlideSite_Starter-1.27.0-guide.2.zip)** · [ChatGPT instructions](guides/CHATGPT.md) · [Claude instructions](guides/CLAUDE.md)
+**[Download the starter ZIP](https://github.com/newhowl-stack/SlideSite_SLS_Public/raw/refs/heads/main/downloads/SlideSite_Starter-1.27.1-guide.3.zip)** · [ChatGPT instructions](guides/CHATGPT.md) · [Claude instructions](guides/CLAUDE.md)
 
 SLS is SlideSite's editable presentation format: one HTML file containing your slide content and a browser editor. Download it, open it in your browser, edit your slides and save a new HTML copy. The free standalone workflow needs no SlideSite+ account. Your AI provider's account and file-tool requirements still apply.
 
@@ -14,7 +14,7 @@ SLS is SlideSite's editable presentation format: one HTML file containing your s
 
 **Try it without AI:** `starter.html` is also an editable three-slide example. Open it, select a text object and change its words. Use **Download HTML copy** in the save controls and reopen the downloaded file. The example is inside the ZIP. [View its HTML source](starter.html).
 
-Included editor: **Rights-clean 1.27.0 release candidate (approved 1.25.0 engine base)**, 1,644,069 bytes, SHA256 `e1352267beeeca5d2a5dd18960caf847701295744be3250462b428d4f7920c22`. [File checksums](manifest.json) · [ZIP checksum](PACKAGE_MANIFEST.json).
+Included editor: **Rights-clean 1.27.1 public-routing derivative (approved 1.25.0 engine base)**, 1,643,955 bytes, SHA256 `7c4e655e97cd443c9b5e73e0fd1bec1c2c621bcc6953706c4e47009a6d659a5f`. [File checksums](manifest.json) · [ZIP checksum](PACKAGE_MANIFEST.json).
 
 ## What to expect
 
