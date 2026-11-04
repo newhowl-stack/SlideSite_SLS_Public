@@ -2,7 +2,7 @@
 
 Use a session that supports uploaded files and downloadable output. Availability depends on your account and mode. No SlideSite+ account or hosted connector is needed.
 
-1. [Download the starter ZIP](https://github.com/newhowl-stack/SlideSite_SLS_Public/raw/refs/heads/main/downloads/SlideSite_Starter-1.25.0-guide.1.zip) and unzip it.
+1. [Download the starter ZIP](https://github.com/newhowl-stack/SlideSite_SLS_Public/raw/refs/heads/main/downloads/SlideSite_Starter-1.27.0-guide.2.zip) and unzip it.
 2. Start a fresh ChatGPT chat. Upload the ZIP if the session can inspect archives. Otherwise upload `starter.html` and `skills/slidesite/SKILL.md` from the extracted folder.
 3. Send the prompt below, replacing the topic and audience.
 

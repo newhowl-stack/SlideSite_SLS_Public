@@ -4,12 +4,12 @@ Updated 3 November 2026. This is not marketplace certification.
 
 | Check | Status |
 | --- | --- |
-| Starter matches canonical SlideSite AI Ready 1.25.0 | Exact bytes/hash verified |
+| Starter matches pinned rights-clean1.27.0 candidate | Exact bytes/hash verified |
 | Downloads without GitHub sign-in | Results in [test record](docs/evidence/2026-11-03.md) |
 | ZIP extraction, member hashes and canonical runtime | Reproducible with scripts/verify_package.py |
 | First-time ChatGPT generation → browser edit → save → offline reopen | Pending; no authenticated file-enabled session available in test browser |
 | First-time Claude generation → browser edit → save → offline reopen | Pending; browser reaches Claude sign-in |
-| Fresh offline file reopen in this session | Blocked by browser file-URL policy; not passed |
+| Fresh offline file reopen in this freeze | Passed native HTML download/close/fresh offline reopen across3 runtime variants; earlier plugin-session policy limitation remains historical, not AI-consumer acceptance |
 | Hosted AI authorization, read, edit and persistence | Preview; independent current end-to-end acceptance pending |
 | Formal versioned schema/Theme-token contract | Not certified here; use embedded canonical agent/model documentation |
 
