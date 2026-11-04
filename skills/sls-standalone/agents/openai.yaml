@@ -1,0 +1,5 @@
+interface:
+  display_name: "SLS standalone"
+  short_description: "Create editable standalone SLS presentations"
+  default_prompt: "Use $sls-standalone to create an editable three-slide SLS file."
+

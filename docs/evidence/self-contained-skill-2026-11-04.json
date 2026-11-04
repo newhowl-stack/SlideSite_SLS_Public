@@ -1,0 +1,21 @@
+{
+  "zip": "downloads/sls-standalone-1.27.1-skill.1-rc.1.zip",
+  "bytes": 765679,
+  "sha256": "655179df804dd17528964767694beeaa5d8afe6cbbb322e8187a256304dada2e",
+  "starterPin": {
+    "packageVersion": "1.27.1-skill.1-rc.1",
+    "runtimeRelease": "1.27.1",
+    "status": "public rights-clean routing derivative; AI acceptance pending",
+    "path": "starter.html",
+    "bytes": 1643955,
+    "sha256": "7c4e655e97cd443c9b5e73e0fd1bec1c2c621bcc6953706c4e47009a6d659a5f",
+    "sourceRepository": "newhowl-stack/SlideSite_SLS_Public",
+    "sourceCommit": "d88846ded612e74bfb3eda5d4bacdf9ac7490696",
+    "sourcePath": "starter.html",
+    "editorVersion": "2.8.0",
+    "schema": "presentation-studio/2"
+  },
+  "packageRegression": "PASS",
+  "consumerJourneys": "unverified: browser upload timed out; replacement not installed",
+  "hosted": "preview, not launch-ready"
+}
