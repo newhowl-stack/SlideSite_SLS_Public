@@ -1,0 +1,563 @@
+{
+  "standalone": {
+    "baseSha256": "bbaa0ce7c29e306a54bf35962a1ebf15381689b13982502761eb24105e208d36",
+    "sha256": "e1352267beeeca5d2a5dd18960caf847701295744be3250462b428d4f7920c22",
+    "bytes": 1644069,
+    "removed": [
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-ac31458729c70d51",
+        "sha256": "916b0ec5a5cf1dde9a15b44b1f06d1923b75ee3efba65f99a78dd09f1778ca3c",
+        "decodedBytes": 31212,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-c659680b20c0fbc7",
+        "sha256": "4ddeda5f3ee8e59d333b1905bd1de0479d11e798c5f87b5741944e2adcd62390",
+        "decodedBytes": 40050,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-276502a764d48ca8",
+        "sha256": "20c35c04a246eb46ac290066af1f7d534730240e3b28cd61a4f876d2da7e3efc",
+        "decodedBytes": 17822,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-55670a225c390c96",
+        "sha256": "2b84564aeef00bfefa093fdfb36bf12c203f555dd44eb8c6879a2f63b52b63dc",
+        "decodedBytes": 40502,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/studio-blue/assets/Layered composition",
+        "sha256": "61fb8ec63b1ca672e67570ff58c59d136e4144c05564d23697ccae5fb2598ce7",
+        "decodedBytes": 781,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-0c164bb218f3a432",
+        "sha256": "4fa2fe8c4a8de0acdf029a2ea81fb520cd51669bc332dea88f81991edc0c8fb9",
+        "decodedBytes": 5568,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-7154541a45bc99d3",
+        "sha256": "d1dd3210962ba5537f1d397f9a1f6e113922f015526fb522589b028a53507482",
+        "decodedBytes": 13480,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-8b63ff37dfffd8d7",
+        "sha256": "4b439ceea3f8ac97a6f65b92420f0c94a6a0f7d9b1c4f4ba1c472f1a5f9d7259",
+        "decodedBytes": 13588,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-58c87f202e0e4ace",
+        "sha256": "2cdff2cd653ac336c10c85247a700a2044df0facb34210837b4a5f5e68801b0c",
+        "decodedBytes": 15658,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-844de0d77d6d7d5a",
+        "sha256": "3d846f71d037fce75476d0698b25ebac754c508bda3d9e0fb12e0e721ba736a3",
+        "decodedBytes": 18104,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-ea6188fccdb9c124",
+        "sha256": "1345ffc244a8b06923c50fb75c490232c1d488a859793eddfb921fdd83ee6cf4",
+        "decodedBytes": 15406,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-7f647c810d7a9e12",
+        "sha256": "3c44185609ac826094650e04986cb9bb1598ed4a0b091c0473b05baba8eef502",
+        "decodedBytes": 15930,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_fontStyle.png",
+        "sha256": "8aa470816558ae66dec38705034e0e11a7c167d3c0fb284e75f27cd67493e6ac",
+        "decodedBytes": 7412,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_shape_hexagonal.png",
+        "sha256": "0b23b4b24324e4eacc0d443db998d10c01bab0b0ff2a88fd798bfeb4f8a10ebb",
+        "decodedBytes": 4624,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_share.png",
+        "sha256": "a61076897b3fa2200b4185ee0b01bfaac0e0b5878f105b68469f895766356c43",
+        "decodedBytes": 8542,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Full_screen.png",
+        "sha256": "149d04bfd03a72690582b7909ba8d4dcce291250ae06cb45ee9714cca01029dd",
+        "decodedBytes": 7584,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/Icon_background.png",
+        "sha256": "d3e303463d0d269556720f7766c42bbc9563aab0b3967bbac859253882fb43c5",
+        "decodedBytes": 9084,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_paragraph.png",
+        "sha256": "63f562cffbc9d1ccd2ca8268bf8c6378c8764d8a567721e18cbd3bdfec4c852b",
+        "decodedBytes": 10384,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_opacity.png",
+        "sha256": "22fcab196644f86be4a7341de94a6705c33627027ccfa60c96f792fb29877c3f",
+        "decodedBytes": 16362,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Layout.png",
+        "sha256": "77b2416661e9a4b4643ef4b8dce810b674e356a3ddcea3b7116a8b6b00b5dd99",
+        "decodedBytes": 2677,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_comment.png",
+        "sha256": "15cddd32a1b37a408db3f210c6df33e101cd39058a4e75eecc2125a780baf400",
+        "decodedBytes": 8131,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/Icon_elements.png",
+        "sha256": "ab3b2496952421329e4966c1545397fd37a3a6be29897b053e8b336dc87939e7",
+        "decodedBytes": 20763,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_transparency.png",
+        "sha256": "0e647d9e0bb18b0a83d9a1a334cd72345b1bb0042b0943343efd29f492168962",
+        "decodedBytes": 24753,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Type.png",
+        "sha256": "dc8893aa919181e871003cedbb238c6abf3a57086af58d26a9886b6c1d884340",
+        "decodedBytes": 7007,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_text.png",
+        "sha256": "d9406cb1c93285c4b8b5d7cff800aed816639d77d62d9f16757973802c4a1fb6",
+        "decodedBytes": 5606,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_list.png",
+        "sha256": "4fb678f5c3d46ca203e8125b19a6e95ac99f4f65fbc865c12c4d2c8c9153a0e3",
+        "decodedBytes": 6914,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Font.png",
+        "sha256": "3340aa50283e1339932f3e4f6b273f567e25667b58de8d81ae2f9b2df8e689ba",
+        "decodedBytes": 12438,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Goal.png",
+        "sha256": "16e15f40086ec5a4d2322516bb4354b0f5b676ac9839bedf943e62da16163520",
+        "decodedBytes": 18811,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "deck-source/assets/Layered composition",
+        "sha256": "61fb8ec63b1ca672e67570ff58c59d136e4144c05564d23697ccae5fb2598ce7",
+        "decodedBytes": 781,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "css/crop",
+        "sha256": "747b52edd7657269661262503ec355995104271d0fbdf67fcdcfcaa3f1379f2a",
+        "decodedBytes": 5337,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      }
+    ]
+  },
+  "hosted": {
+    "baseSha256": "439359e41ad4e7aa0d987950f8d0a4f5fe3cfbefe18127f39bfa06fdda17af8d",
+    "sha256": "298f71e22017084e701ed9e26d07c546848490393aa9821cfa618d5e4220b167",
+    "bytes": 3201425,
+    "removed": [
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-ac31458729c70d51",
+        "sha256": "916b0ec5a5cf1dde9a15b44b1f06d1923b75ee3efba65f99a78dd09f1778ca3c",
+        "decodedBytes": 31212,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-c659680b20c0fbc7",
+        "sha256": "4ddeda5f3ee8e59d333b1905bd1de0479d11e798c5f87b5741944e2adcd62390",
+        "decodedBytes": 40050,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-276502a764d48ca8",
+        "sha256": "20c35c04a246eb46ac290066af1f7d534730240e3b28cd61a4f876d2da7e3efc",
+        "decodedBytes": 17822,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-55670a225c390c96",
+        "sha256": "2b84564aeef00bfefa093fdfb36bf12c203f555dd44eb8c6879a2f63b52b63dc",
+        "decodedBytes": 40502,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/studio-blue/assets/Layered composition",
+        "sha256": "61fb8ec63b1ca672e67570ff58c59d136e4144c05564d23697ccae5fb2598ce7",
+        "decodedBytes": 781,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-0c164bb218f3a432",
+        "sha256": "4fa2fe8c4a8de0acdf029a2ea81fb520cd51669bc332dea88f81991edc0c8fb9",
+        "decodedBytes": 5568,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-7154541a45bc99d3",
+        "sha256": "d1dd3210962ba5537f1d397f9a1f6e113922f015526fb522589b028a53507482",
+        "decodedBytes": 13480,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-8b63ff37dfffd8d7",
+        "sha256": "4b439ceea3f8ac97a6f65b92420f0c94a6a0f7d9b1c4f4ba1c472f1a5f9d7259",
+        "decodedBytes": 13588,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-58c87f202e0e4ace",
+        "sha256": "2cdff2cd653ac336c10c85247a700a2044df0facb34210837b4a5f5e68801b0c",
+        "decodedBytes": 15658,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-844de0d77d6d7d5a",
+        "sha256": "3d846f71d037fce75476d0698b25ebac754c508bda3d9e0fb12e0e721ba736a3",
+        "decodedBytes": 18104,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-ea6188fccdb9c124",
+        "sha256": "1345ffc244a8b06923c50fb75c490232c1d488a859793eddfb921fdd83ee6cf4",
+        "decodedBytes": 15406,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-7f647c810d7a9e12",
+        "sha256": "3c44185609ac826094650e04986cb9bb1598ed4a0b091c0473b05baba8eef502",
+        "decodedBytes": 15930,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_fontStyle.png",
+        "sha256": "8aa470816558ae66dec38705034e0e11a7c167d3c0fb284e75f27cd67493e6ac",
+        "decodedBytes": 7412,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_shape_hexagonal.png",
+        "sha256": "0b23b4b24324e4eacc0d443db998d10c01bab0b0ff2a88fd798bfeb4f8a10ebb",
+        "decodedBytes": 4624,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_share.png",
+        "sha256": "a61076897b3fa2200b4185ee0b01bfaac0e0b5878f105b68469f895766356c43",
+        "decodedBytes": 8542,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Full_screen.png",
+        "sha256": "149d04bfd03a72690582b7909ba8d4dcce291250ae06cb45ee9714cca01029dd",
+        "decodedBytes": 7584,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/Icon_background.png",
+        "sha256": "d3e303463d0d269556720f7766c42bbc9563aab0b3967bbac859253882fb43c5",
+        "decodedBytes": 9084,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_paragraph.png",
+        "sha256": "63f562cffbc9d1ccd2ca8268bf8c6378c8764d8a567721e18cbd3bdfec4c852b",
+        "decodedBytes": 10384,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_opacity.png",
+        "sha256": "22fcab196644f86be4a7341de94a6705c33627027ccfa60c96f792fb29877c3f",
+        "decodedBytes": 16362,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Layout.png",
+        "sha256": "77b2416661e9a4b4643ef4b8dce810b674e356a3ddcea3b7116a8b6b00b5dd99",
+        "decodedBytes": 2677,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_comment.png",
+        "sha256": "15cddd32a1b37a408db3f210c6df33e101cd39058a4e75eecc2125a780baf400",
+        "decodedBytes": 8131,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/Icon_elements.png",
+        "sha256": "ab3b2496952421329e4966c1545397fd37a3a6be29897b053e8b336dc87939e7",
+        "decodedBytes": 20763,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_transparency.png",
+        "sha256": "0e647d9e0bb18b0a83d9a1a334cd72345b1bb0042b0943343efd29f492168962",
+        "decodedBytes": 24753,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Type.png",
+        "sha256": "dc8893aa919181e871003cedbb238c6abf3a57086af58d26a9886b6c1d884340",
+        "decodedBytes": 7007,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_text.png",
+        "sha256": "d9406cb1c93285c4b8b5d7cff800aed816639d77d62d9f16757973802c4a1fb6",
+        "decodedBytes": 5606,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_list.png",
+        "sha256": "4fb678f5c3d46ca203e8125b19a6e95ac99f4f65fbc865c12c4d2c8c9153a0e3",
+        "decodedBytes": 6914,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Font.png",
+        "sha256": "3340aa50283e1339932f3e4f6b273f567e25667b58de8d81ae2f9b2df8e689ba",
+        "decodedBytes": 12438,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Goal.png",
+        "sha256": "16e15f40086ec5a4d2322516bb4354b0f5b676ac9839bedf943e62da16163520",
+        "decodedBytes": 18811,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "deck-source/assets/Layered composition",
+        "sha256": "61fb8ec63b1ca672e67570ff58c59d136e4144c05564d23697ccae5fb2598ce7",
+        "decodedBytes": 781,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "css/crop",
+        "sha256": "747b52edd7657269661262503ec355995104271d0fbdf67fcdcfcaa3f1379f2a",
+        "decodedBytes": 5337,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      }
+    ]
+  },
+  "portable": {
+    "baseSha256": "01d53e27121e8cf1e25ff895de9de9674002678520e1d55a91f1444c7dad5700",
+    "sha256": "543081066c82513765f66ee61babc8f25225a9d46a8cd7cf5dd9afd37e010863",
+    "bytes": 1638752,
+    "removed": [
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-ac31458729c70d51",
+        "sha256": "916b0ec5a5cf1dde9a15b44b1f06d1923b75ee3efba65f99a78dd09f1778ca3c",
+        "decodedBytes": 31212,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-c659680b20c0fbc7",
+        "sha256": "4ddeda5f3ee8e59d333b1905bd1de0479d11e798c5f87b5741944e2adcd62390",
+        "decodedBytes": 40050,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-276502a764d48ca8",
+        "sha256": "20c35c04a246eb46ac290066af1f7d534730240e3b28cd61a4f876d2da7e3efc",
+        "decodedBytes": 17822,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "GLASS_PACKAGE/assets/gd005-55670a225c390c96",
+        "sha256": "2b84564aeef00bfefa093fdfb36bf12c203f555dd44eb8c6879a2f63b52b63dc",
+        "decodedBytes": 40502,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/studio-blue/assets/Layered composition",
+        "sha256": "61fb8ec63b1ca672e67570ff58c59d136e4144c05564d23697ccae5fb2598ce7",
+        "decodedBytes": 781,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-0c164bb218f3a432",
+        "sha256": "4fa2fe8c4a8de0acdf029a2ea81fb520cd51669bc332dea88f81991edc0c8fb9",
+        "decodedBytes": 5568,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-7154541a45bc99d3",
+        "sha256": "d1dd3210962ba5537f1d397f9a1f6e113922f015526fb522589b028a53507482",
+        "decodedBytes": 13480,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-8b63ff37dfffd8d7",
+        "sha256": "4b439ceea3f8ac97a6f65b92420f0c94a6a0f7d9b1c4f4ba1c472f1a5f9d7259",
+        "decodedBytes": 13588,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-58c87f202e0e4ace",
+        "sha256": "2cdff2cd653ac336c10c85247a700a2044df0facb34210837b4a5f5e68801b0c",
+        "decodedBytes": 15658,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-844de0d77d6d7d5a",
+        "sha256": "3d846f71d037fce75476d0698b25ebac754c508bda3d9e0fb12e0e721ba736a3",
+        "decodedBytes": 18104,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-ea6188fccdb9c124",
+        "sha256": "1345ffc244a8b06923c50fb75c490232c1d488a859793eddfb921fdd83ee6cf4",
+        "decodedBytes": 15406,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "PILOT_PACKAGES/gd-magazine-editorial/assets/gd006-7f647c810d7a9e12",
+        "sha256": "3c44185609ac826094650e04986cb9bb1598ed4a0b091c0473b05baba8eef502",
+        "decodedBytes": 15930,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_fontStyle.png",
+        "sha256": "8aa470816558ae66dec38705034e0e11a7c167d3c0fb284e75f27cd67493e6ac",
+        "decodedBytes": 7412,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_shape_hexagonal.png",
+        "sha256": "0b23b4b24324e4eacc0d443db998d10c01bab0b0ff2a88fd798bfeb4f8a10ebb",
+        "decodedBytes": 4624,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_share.png",
+        "sha256": "a61076897b3fa2200b4185ee0b01bfaac0e0b5878f105b68469f895766356c43",
+        "decodedBytes": 8542,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Full_screen.png",
+        "sha256": "149d04bfd03a72690582b7909ba8d4dcce291250ae06cb45ee9714cca01029dd",
+        "decodedBytes": 7584,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/Icon_background.png",
+        "sha256": "d3e303463d0d269556720f7766c42bbc9563aab0b3967bbac859253882fb43c5",
+        "decodedBytes": 9084,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_paragraph.png",
+        "sha256": "63f562cffbc9d1ccd2ca8268bf8c6378c8764d8a567721e18cbd3bdfec4c852b",
+        "decodedBytes": 10384,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_opacity.png",
+        "sha256": "22fcab196644f86be4a7341de94a6705c33627027ccfa60c96f792fb29877c3f",
+        "decodedBytes": 16362,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Layout.png",
+        "sha256": "77b2416661e9a4b4643ef4b8dce810b674e356a3ddcea3b7116a8b6b00b5dd99",
+        "decodedBytes": 2677,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_comment.png",
+        "sha256": "15cddd32a1b37a408db3f210c6df33e101cd39058a4e75eecc2125a780baf400",
+        "decodedBytes": 8131,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/Icon_elements.png",
+        "sha256": "ab3b2496952421329e4966c1545397fd37a3a6be29897b053e8b336dc87939e7",
+        "decodedBytes": 20763,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_transparency.png",
+        "sha256": "0e647d9e0bb18b0a83d9a1a334cd72345b1bb0042b0943343efd29f492168962",
+        "decodedBytes": 24753,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Type.png",
+        "sha256": "dc8893aa919181e871003cedbb238c6abf3a57086af58d26a9886b6c1d884340",
+        "decodedBytes": 7007,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_text.png",
+        "sha256": "d9406cb1c93285c4b8b5d7cff800aed816639d77d62d9f16757973802c4a1fb6",
+        "decodedBytes": 5606,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_list.png",
+        "sha256": "4fb678f5c3d46ca203e8125b19a6e95ac99f4f65fbc865c12c4d2c8c9153a0e3",
+        "decodedBytes": 6914,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Font.png",
+        "sha256": "3340aa50283e1339932f3e4f6b273f567e25667b58de8d81ae2f9b2df8e689ba",
+        "decodedBytes": 12438,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "ui/icon_Goal.png",
+        "sha256": "16e15f40086ec5a4d2322516bb4354b0f5b676ac9839bedf943e62da16163520",
+        "decodedBytes": 18811,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "deck-source/assets/Layered composition",
+        "sha256": "61fb8ec63b1ca672e67570ff58c59d136e4144c05564d23697ccae5fb2598ce7",
+        "decodedBytes": 781,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      },
+      {
+        "path": "css/crop",
+        "sha256": "747b52edd7657269661262503ec355995104271d0fbdf67fcdcfcaa3f1379f2a",
+        "decodedBytes": 5337,
+        "reason": "Excluded: no asset-specific redistribution evidence in frozen source"
+      }
+    ]
+  }
+}

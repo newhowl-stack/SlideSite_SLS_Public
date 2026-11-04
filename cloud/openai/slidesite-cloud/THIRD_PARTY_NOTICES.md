@@ -339,6 +339,6 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 
 
-## Bundled example artwork
+## Launch artwork disposition
 
-The upstream Theme metadata labels Studio Blue sample SVG source licensing and recovered Magazine Editorial reference/artwork rights as awaiting audit. This repository's AGPL declaration covers first-party editor code and skills; it does not claim ownership of, or grant a new license for, third-party example artwork. Those embedded provenance notices remain intact. Confirm or replace uncleared artwork before treating the entire sample-artwork bundle as cleared for unrestricted reuse.
+Release1.27.0 excludes all bundled Theme/example image collections and untraced bitmap UI icons. Editable blank frames remain. UI substitutions reuse the existing Lucide/Feather SVG set under the notices above. No ownership or licence clearance is asserted for excluded originals. User images in imported decks remain user content and are not stripped.
