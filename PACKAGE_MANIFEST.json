@@ -1,6 +1,6 @@
 {
-  "derivation": "Frozen runtime and skills unchanged. Only platform guide download links and distribution metadata changed.",
-  "distributionVersion": "1.27.0-guide.2",
+  "derivation": "Public-origin handoff/discovery/CSP patch; editor data/assets/fonts/layouts and all skill bytes unchanged. Platform guide links select current rights-clean ZIP.",
+  "distributionVersion": "1.27.1-guide.3",
   "files": {
     "KNOWN_LIMITATIONS.md": {
       "bytes": 2352,
@@ -15,8 +15,8 @@
       "sha256": "406e8e0e78e6eda69f637147723f32d4dc651d28fc6f57ba398044d9ed4e38fb"
     },
     "README.md": {
-      "bytes": 3646,
-      "sha256": "3de4c96a67d143843a06c93d13d194cf1f51b6f8db25438430821f6924a7e10b"
+      "bytes": 3727,
+      "sha256": "cde106d489328910a2116062519d1cce56f60d0d628d6940cce67ecc0e775473"
     },
     "RIGHTS_AUDIT.json": {
       "bytes": 25655,
@@ -84,27 +84,28 @@
     },
     "guides/CHATGPT.md": {
       "bytes": 2355,
-      "sha256": "a51ad43a936de242f2c1f7d87882bfc719a8381a6f189cf560af183b19ecf247"
+      "sha256": "b5716dd3bae3fae733da3603982a4dcb1f5421f67b5304fbc7114fbfe57aa13b"
     },
     "guides/CLAUDE.md": {
       "bytes": 2493,
-      "sha256": "af554ed84b2c31ca9b5b90c2484753cfbcf8c06a89e4bc5fb19fc585149175fa"
+      "sha256": "20d0cc76001af00282a92f352ef40ec95918dea211102d9e51dc99fc681f4e4f"
     },
     "manifest.json": {
-      "bytes": 3285,
-      "sha256": "48936cc1882e5ac15ada24cdc7031c154742579049b27fff0d9ff56989fbc1bd"
+      "bytes": 3399,
+      "sha256": "5570965ec27b0fe288cf84bcd0eb07eb31cb34a279b6cf00b9b2e7c6efdb13a0"
     },
     "skills/slidesite/SKILL.md": {
       "bytes": 613,
       "sha256": "49acfa83ce5c1d9bbfaed6bd95218215debd561a92ec9183fb132ad2e8a65433"
     },
     "starter.html": {
-      "bytes": 1644069,
-      "sha256": "e1352267beeeca5d2a5dd18960caf847701295744be3250462b428d4f7920c22"
+      "bytes": 1643955,
+      "sha256": "7c4e655e97cd443c9b5e73e0fd1bec1c2c621bcc6953706c4e47009a6d659a5f"
     }
   },
   "format": "slidesite-launch-package/1",
   "sourceFreezeCommit": "e3ef116efa0420e543e2a8858f0d56ad9f430de3",
-  "standaloneRuntimeRelease": "1.27.0",
-  "standaloneSourceReferenceSha256": "e1352267beeeca5d2a5dd18960caf847701295744be3250462b428d4f7920c22"
+  "sourceGuidePackageSha256": "348ddb502a4486f20facbabd14916bf0c6d146aa5733bfa4545009930b628861",
+  "standaloneRuntimeRelease": "1.27.1",
+  "standaloneSourceReferenceSha256": "7c4e655e97cd443c9b5e73e0fd1bec1c2c621bcc6953706c4e47009a6d659a5f"
 }

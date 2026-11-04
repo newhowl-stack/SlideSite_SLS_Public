@@ -19,8 +19,8 @@ with zipfile.ZipFile(p) as z:
  for name,info in inventory.items():
   b=z.read(name);assert len(b)==info['bytes'] and sha(b)==info['sha256'],name
  assert z.read('starter.html')==(ROOT/'starter.html').read_bytes()
- assert len(z.read('starter.html'))==1644069
- assert sha(z.read('starter.html'))=='e1352267beeeca5d2a5dd18960caf847701295744be3250462b428d4f7920c22'
+ assert len(z.read('starter.html'))==1643955
+ assert sha(z.read('starter.html'))=='7c4e655e97cd443c9b5e73e0fd1bec1c2c621bcc6953706c4e47009a6d659a5f'
  for name in ['LICENSE','LICENSING.md','THIRD_PARTY_NOTICES.md']: assert len(z.read(name))>500
  for name in names:
   if name.endswith('.md'):
@@ -29,6 +29,7 @@ with zipfile.ZipFile(p) as z:
     resolved=posixpath.normpath(posixpath.join(posixpath.dirname(name),target.split('#')[0]))
     assert resolved in names or resolved.startswith('docs/evidence/'),(name,target)
  for name in ['guides/CHATGPT.md','guides/CLAUDE.md']:
-  assert b'SlideSite_Starter-1.27.0-guide.2.zip' in z.read(name)
+  assert b'SlideSite_Starter-1.27.1-guide.3.zip' in z.read(name)
   assert b'SlideSite_Starter-1.25.0' not in z.read(name)
+ assert b'https://slidesite-frontend-development-production.up.railway.app' not in z.read('starter.html')
 print(json.dumps({'status':'PASS','bytes':p.stat().st_size,'sha256':sha(p.read_bytes()),'members':len(names),'scope':'Archive, all member identities, rights-clean starter equality and documentation links; AI-consumer acceptance remains separate.'}))
